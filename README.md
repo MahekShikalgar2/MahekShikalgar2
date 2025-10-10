@@ -7,7 +7,7 @@
 <h3 align="center">💻 Aspiring Computer Science Engineer | 🚀 IoT • Cybersecurity • Blockchain Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+Smart+Tech+for+a+Smarter+World!;IoT+%7C+AI+%7C+Cybersecurity+%7C+Blockchain;Full+Stack+Developer+%7C+Problem+Solver+%7C+Creator" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+Smart+Tech+for+a+Smarter+World!;IoT+%7C+AI+%7C+Cybersecurity+%7C+Blockchain;Full+Stack+Developer+%7C+Problem+Solver+%7C+Creator](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3ZnY3FraGYzcWpqcDYwZnQydzF5bTA1a3Jwd29kZWp1cGdsc3gyZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" alt="Typing SVG" />
 </p>
 
 ---
