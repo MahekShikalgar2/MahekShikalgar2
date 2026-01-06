@@ -1,5 +1,5 @@
 <!-- Header Animation -->
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
 </p>
 
@@ -15,7 +15,7 @@ Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • 
 ---
 
 ## 👩‍💻 About Me
-<p align="center">
+<p>
 🎓 B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain) <br>
 💡 Passionate about <b>MERN Stack, Android Apps, and AI-based systems</b> <br>
 🧠 Strong in <b>problem-solving & DSA (GeeksforGeeks)</b> <br>
@@ -26,7 +26,7 @@ Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • 
 ---
 
 ## 📌 Quick Info
-<p align="center">
+<p>
 📍 Karad, Maharashtra, India <br>
 📞 +91 92848 22887 <br>
 📧 mahekshikalgar212@gmail.com <br>
@@ -40,27 +40,27 @@ Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • 
 ## 🛠️ Skills & Technologies
 
 ### 👩‍💻 Programming Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 ### 🌐 Web Development
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Backend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 📱 Mobile & AI
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,arduino,opencv" />
 </p>
 
 ### 🧰 Tools & Platforms
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
 </p>
 
