@@ -1,68 +1,79 @@
-# 👋 Hi, I'm Mahek Shikal Shikalgar
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
+</p>
 
-**Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • AI**  
+<h1 align="center">Hi 👋, I'm Mahek Shakil Shikalgar</h1>
+<h3 align="center">
+Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • AI
+</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://mahek-shikalgar-portfolio.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mahek-shikalgar-610103865)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MahekShikalgar2)
-
----
-
-## 🌟 About Me
-I am a **B.Tech Computer Science Engineering student** passionate about building innovative systems with **IoT, AI, Cybersecurity, and Blockchain technologies**.  
-
-- 💡 Strong in problem-solving & DSA, with hands-on project experience.  
-- 🚀 Enthusiastic about building **smart systems & AI-driven solutions**.  
-- 🎨 Creative soul with a passion for **Islamic calligraphy**.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Building+Smart+and+Secure+Tech+Solutions;MERN+Stack+%7C+Android+%7C+AI+Developer;Turning+Ideas+into+Real-World+Projects" />
+</p>
 
 ---
 
-## 📍 Quick Info
-- **Location:** Karad, Maharashtra, India  
-- **Contact:** +91 92848 22887 | mahekshikalgar2@gmail.com  
-- **Portfolio:** [Visit](https://mahek-shikalgar-portfolio.vercel.app)  
-- **GitHub:** [MahekShikalgar2](https://github.com/MahekShikalgar2)  
-- **LinkedIn:** [Connect](https://linkedin.com/in/mahek-shikalgar-610103865)  
+## 👩‍💻 About Me
+<p align="center">
+🎓 B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain) <br>
+💡 Passionate about <b>MERN Stack, Android Apps, and AI-based systems</b> <br>
+🧠 Strong in <b>problem-solving & DSA (GeeksforGeeks)</b> <br>
+🎯 Goal: Build <b>secure, scalable & meaningful technology</b> <br>
+🎨 Creative soul — Islamic Calligraphy meets Code
+</p>
 
 ---
 
-## 💻 Skills & Technologies
+## 📌 Quick Info
+<p align="center">
+📍 Karad, Maharashtra, India <br>
+📞 +91 92848 22887 <br>
+📧 mahekshikalgar212@gmail.com <br>
+🌐 <a href="https://mahek-shikalgar-portfolio.vercel.app">Portfolio</a> <br>
+🔗 <a href="https://github.com/MahekShikalgar2">GitHub</a> <br>
+💼 <a href="https://linkedin.com/in/mahek-shikalgar-610108365">LinkedIn</a>
+</p>
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🛠️ Skills & Technologies
 
-### Databases & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+### 👩‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
-### Mobile & AI
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php,tailwind,bootstrap" />
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🗄️ Databases & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📱 Mobile & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,opencv" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight" />
+</p>
 
 ---
 
-✨ **Creativity meets Code — Learning, Building & Inspiring** ✨
+<h3 align="center">✨ Creativity meets Code — Learning, Building & Inspiring ✨</h3>
