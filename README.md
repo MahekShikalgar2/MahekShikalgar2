@@ -1,79 +1,75 @@
-<!-- Profile Header with GIF -->
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mahek Shikalgar</h1>
-<h3 align="center">💻 Aspiring Computer Science Engineer | 🚀 IoT • Cybersecurity • Blockchain Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mahek Shakil Shikalgar</h1>
+<h3 align="center">
+Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • AI
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+Smart+Tech+for+a+Smarter+World!;IoT+%7C+AI+%7C+Cybersecurity+%7C+Blockchain;Full+Stack+Developer+%7C+Problem+Solver+%7C+Creator" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** (IoT, Cybersecurity & Blockchain specialization)  
-- 💡 Turning **ideas into real-world projects** — from AI-based apps to IoT systems  
-- 🌱 Currently learning **Full-Stack Development & React.js** while sharpening DSA  
-- 🤝 Open to **collaborating on IoT, Web Dev, and AI projects**  
-- 🎯 Goal: Build **secure, scalable, and impactful tech solutions**  
-- ⚡ Fun fact: I mix creativity (**Islamic Calligraphy 🎨**) with technology to stay inspired  
-
----
-
-## 📂 Featured Projects
-- 🖱️ **Hand Gesture Mouse Control using OpenCV** – Real-time gesture-controlled cursor.  
-- 🏥 **Smart Hospital Management System** – Simplified medical records and automation.  
-- 🛒 **Smart Shopping Cart (ScanGoCart)** – IoT-based automatic billing system.  
-
----
-
-## 🏆 Achievements
-- 🎖️ Industrial Training at **IGate Technology** & **Amplifier Electronics**  
-- 💻 **160+ Days GeeksforGeeks DSA Challenge** in progress  
-- 🏅 Participant at **Hectane 2024**  
-
----
-
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/mahek-shikalgar-610108365"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:mahekshikalgar212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mahekshik0wln"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Building+Smart+and+Secure+Tech+Solutions;MERN+Stack+%7C+Android+%7C+AI+Developer;Turning+Ideas+into+Real-World+Projects" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 👩‍💻 About Me
+🎓 B.Tech Computer Science Engineering (IoT, Cybersecurity & Blockchain)  
+💡 Passionate about **MERN Stack, Android Apps, and AI-based systems**  
+🧠 Strong in **problem-solving & DSA practice (GeeksforGeeks)**  
+🎯 Goal: Build **secure, scalable & meaningful technology**  
+🎨 Creative soul — Islamic Calligraphy 
+
+---
+
+## 📌 Quick Info
+- 📍 **Karad, Maharashtra, India**
+- 📞 **+91 92848 22887**
+- 📧 **mahekshikalgar212@gmail.com**
+- 🌐 **Portfolio:** https://mahek-shikalgar-portfolio.vercel.app
+- 🔗 **GitHub:** https://github.com/MahekShikalgar2
+- 💼 **LinkedIn:** https://linkedin.com/in/mahek-shikalgar-610108365
+
+---
+
+## 🛠️ Skills & Technologies (Animated)
+
+### 👩‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,nodejs,php,mysql,oracle,androidstudio,arduino,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📱 Mobile & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,opencv" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight" alt="Mahek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahekShikalgar2&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahekShikalgar2&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/26Ff5bBSMqjAAbz0E/giphy.gif" width="250](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3ZnY3FraGYzcWpqcDYwZnQydzF5bTA1a3Jwd29kZWp1cGdsc3gyZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)">
-</p>
-
-<h3 align="center">✨ "Creativity meets Code — Building, Learning, and Inspiring!" ✨</h3>
+<h3 align="center">✨ Creativity meets Code — Learning, Building & Inspiring ✨</h3>
