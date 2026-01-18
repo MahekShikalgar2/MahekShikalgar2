@@ -113,7 +113,7 @@ IoT • Cybersecurity • Blockchain • AI
       <img src="coding.jpg" width="200" height="200" />
     </td>
     <td align="center">
-      <img src="github.png" width="200" height="200" />
+      <img src="github.png" width="300" height="200" />
     </td>
   </tr>
 </table>
