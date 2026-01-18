@@ -107,6 +107,16 @@ IoT • Cybersecurity • Blockchain • AI
 
 ---
 
-<h3 align="center">
-✨ Creativity meets Code — Learning, Building & Inspiring ✨
-</h3>
+<table>
+  <tr>
+    <td width="180">
+      <img src="github.png" width="160" />
+    </td>
+    <td>
+      <h3>
+        ✨ Creativity meets Code — Learning, Building & Inspiring ✨
+      </h3>
+    </td>
+  </tr>
+</table>
+
