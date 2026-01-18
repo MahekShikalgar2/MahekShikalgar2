@@ -24,6 +24,16 @@ IoT • Cybersecurity • Blockchain • AI
 
 ---
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ef/1c/92/ef1c92f65e33f91b02b7f4c06c2c44f6.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🌸 About Me
 
 🎓 **B.Tech – Computer Science Engineering**  
@@ -34,10 +44,6 @@ IoT • Cybersecurity • Blockchain • AI
 🛠️ Hands-on experience through **internships & real-world projects**  
 🎨 Creative soul — **Islamic Calligraphy meets Technology**  
 🎯 Goal: Build **secure, scalable & meaningful software solutions**
-
-<p align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140" higth="140"/>
-</p>
 
 ---
 
@@ -100,14 +106,6 @@ IoT • Cybersecurity • Blockchain • AI
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ef/1c/92/ef1c92f65e33f91b02b7f4c06c2c44f6.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <h3 align="center">
 ✨ Creativity meets Code — Learning, Building & Inspiring ✨
