@@ -110,10 +110,10 @@ IoT • Cybersecurity • Blockchain • AI
 <table align="center">
   <tr>
     <td align="center" style="padding-right:20px;">
-      <img src="coding.jpg" width="160" height="160" />
+      <img src="coding.jpg" width="200" height="200" />
     </td>
     <td align="center">
-      <img src="github.png" width="160" height="160" />
+      <img src="github.png" width="200" height="200" />
     </td>
   </tr>
 </table>
