@@ -1,79 +1,95 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" />
+</p>
+
+<!-- Hijabi Coding Girl GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9b/88/92/9b8892c3a0b6e0f89e5c2f9b6c6b5d7f.gif" width="260" alt="Hijabi Girl Coding"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahek Shakil Shikalgar</h1>
+
 <h3 align="center">
-Computer Science Engineering Student | IoT • Cybersecurity • Blockchain • AI
+Computer Science Engineering Student <br/>
+IoT • Cybersecurity • Blockchain • AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Building+Smart+and+Secure+Tech+Solutions;MERN+Stack+%7C+Android+%7C+AI+Developer;Turning+Ideas+into+Real-World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=750&lines=Building+Smart+%26+Secure+Tech+Solutions;MERN+Stack+%7C+Android+%7C+AI+Developer;Turning+Ideas+Into+Real-World+Projects;Creativity+Meets+Code" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-<p>
-🎓 B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain) <br>
-💡 Passionate about <b>MERN Stack, Android Apps, and AI-based systems</b> <br>
-🧠 Strong in <b>problem-solving & DSA (GeeksforGeeks)</b> <br>
-🎯 Goal: Build <b>secure, scalable & meaningful technology</b> <br>
-🎨 Creative soul — Islamic Calligraphy meets Code
-</p>
+## 🌸 About Me
+
+🎓 **B.Tech – Computer Science Engineering**  
+*(IoT, Cybersecurity & Blockchain Technology)*  
+
+💡 Passionate about **MERN Stack**, **Android Development**, and **AI-based systems**  
+🧠 Strong foundation in **DSA & problem-solving**  
+🛠️ Hands-on experience through **internships & real-world projects**  
+🎨 Creative soul — **Islamic Calligraphy meets Technology**  
+🎯 Goal: Build **secure, scalable & meaningful software solutions**
 
 ---
 
-## 📌 Quick Info
-<p>
-📍 Karad, Maharashtra, India <br>
-📞 +91 92848 22887 <br>
-📧 mahekshikalgar212@gmail.com <br>
-🌐 <a href="https://mahek-shikalgar-portfolio.vercel.app">Portfolio</a> <br>
-🔗 <a href="https://github.com/MahekShikalgar2">GitHub</a> <br>
-💼 <a href="https://linkedin.com/in/mahek-shikalgar-610108365">LinkedIn</a>
-</p>
+## 📍 Quick Info
+
+- 📍 **Karad, Maharashtra, India**
+- 📞 **+91 92848 22887**
+- 📧 **mahekshikalgar212@gmail.com**
+- 🌐 **Portfolio:** [Visit Website](https://mahek-shikalgar-portfolio.vercel.app)
+- 💼 **LinkedIn:** [Connect](https://linkedin.com/in/mahek-shikalgar-610108365)
+- 🧑‍💻 **GitHub:** [MahekShikalgar2](https://github.com/MahekShikalgar2)
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 👩‍💻 Programming Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 ### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php,tailwind,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,php,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Backend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 📱 Mobile & AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,opencv" />
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,opencv,arduino" />
 </p>
 
 ### 🧰 Tools & Platforms
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight&hide_border=true" />
+</p>  
 
 ---
 
-<h3 align="center">✨ Creativity meets Code — Learning, Building & Inspiring ✨</h3>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ef/1c/92/ef1c92f65e33f91b02b7f4c06c2c44f6.gif" width="200"/>
+</p>
+
+<h3 align="center">
+✨ Creativity meets Code — Learning, Building & Inspiring ✨
+</h3>
