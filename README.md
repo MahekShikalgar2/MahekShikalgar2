@@ -110,7 +110,7 @@ IoT • Cybersecurity • Blockchain • AI
 <table align="center">
   <tr>
     <td align="center">
-      <img src="anime.gif" width="300" height="200" />
+      <img src="anime.gif" width="300" height="300" />
     </td>
   </tr>
 </table>
