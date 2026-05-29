@@ -1,96 +1,65 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="85" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9b/88/92/9b8892c3a0b6e0f89e5c2f9b6c6b5d7f.gif" width="260" alt="Hijabi Girl Coding"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Mahek Shakil Shikalgar</h1>
+<h1 align="center">Hey 👋 I'm Mahek Shikalgar</h1>
 
 <h3 align="center">
-Computer Science Engineering Student <br/>
-IoT • Cybersecurity • Blockchain • AI
+Cybersecurity • AI • MERN Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&width=750&lines=Building+Smart+%26+Secure+Tech+Solutions;MERN+Stack+%7C+Android+%7C+AI+Developer;Turning+Ideas+Into+Real-World+Projects;Creativity+Meets+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7DD3FC&center=true&width=750&lines=Building+Elegant+%26+Secure+Applications;IoT+%7C+Blockchain+%7C+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects;Code+with+Creativity+%26+Purpose" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2&section=footer"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ef/1c/92/ef1c92f65e33f91b02b7f4c06c2c44f6.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=140&section=header"/>
 </p>
 
 ---
 
 ## 🌸 About Me
 
-🎓 **B.Tech – Computer Science Engineering**  
-*(IoT, Cybersecurity & Blockchain Technology)*  
+```yaml
+Name: Mahek Shikalgar
+Education: B.Tech CSE
+Specialization: IoT • Cybersecurity • Blockchain
+Focus: MERN Stack • Android • AI Systems
+Location: Maharashtra, India
+```
 
-💡 Passionate about **MERN Stack**, **Android Development**, and **AI-based systems**  
-🧠 Strong foundation in **DSA & problem-solving**  
-🛠️ Hands-on experience through **internships & real-world projects**  
-🎨 Creative soul — **Islamic Calligraphy meets Technology**  
-🎯 Goal: Build **secure, scalable & meaningful software solutions**
+✨ Passionate about building secure & meaningful digital solutions  
+🧠 Strong foundation in DSA & problem solving  
+🎨 Creativity + Technology = My Style  
 
 ---
 
-## 📍 Quick Info
+## ⚡ Tech Stack
 
-- 📍 **Karad, Maharashtra, India**
-- 📞 **+91 92848 22887**
-- 📧 **mahekshikalgar212@gmail.com**
-- 🌐 **Portfolio:** [Visit Website](https://mahek-shikalgar-portfolio.vercel.app)
-- 💼 **LinkedIn:** [Connect](https://linkedin.com/in/mahek-shikalgar-610108365)
-- 🧑‍💻 **GitHub:** [MahekShikalgar2](https://github.com/MahekShikalgar2)
-
+### 👩‍💻 Languages
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2&section=footer"/>
-</p>
-
----
-
-## 🛠️ Skills & Technologies
-
-### 👩‍💻 Programming Languages
-<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 ### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,php,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,php" />
 </p>
 
 ### 📱 Mobile & AI
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,opencv,arduino" />
 </p>
 
-### 🧰 Tools & Platforms
-<p>
+### 🛠️ Tools & Platforms
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
-</p>
-
-<p align="left">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
 </p>
 
 ---
@@ -98,20 +67,51 @@ IoT • Cybersecurity • Blockchain • AI
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahekShikalgar2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="anime.gif" width="300" height="300" />
-    </td>
-  </tr>
-</table>
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/mahek-shikalgar-610108365">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/MahekShikalgar2">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="mailto:mahekshikalgar212@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=140&section=footer"/>
+</p>
