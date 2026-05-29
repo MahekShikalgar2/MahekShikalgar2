@@ -19,66 +19,35 @@ Cybersecurity • AI • MERN Developer
 
 ---
 
-## 🌸 About Me
+# ⚡ Tech Universe
 
-```yaml
-Name: Mahek Shikalgar
-Education: B.Tech CSE
-Specialization: IoT • Cybersecurity • Blockchain
-Focus: MERN Stack • Android • AI Systems
-Location: Maharashtra, India
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,androidstudio,git,github,vscode,figma" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+```txt
+⚡ Building MERN & AI Projects
+🔐 Exploring Cybersecurity
+📱 Android App Development
+🧠 Improving DSA & Problem Solving
+🌐 Creating Smart Tech Solutions
 ```
 
-✨ Passionate about building secure & meaningful digital solutions  
-🧠 Strong foundation in DSA & problem solving  
-🎨 Creativity + Technology = My Style  
-
 ---
 
-## ⚡ Tech Stack
+# 🛠️ Tools I Use
 
-### 👩‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap" />
-</p>
-
-### 🗄️ Databases & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,php" />
-</p>
-
-### 📱 Mobile & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,opencv,arduino" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,firebase,xampp,arduino" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MahekShikalgar2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahekShikalgar2&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahekShikalgar2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🐍 Contribution Graph
+# 🌌 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -86,7 +55,7 @@ Location: Maharashtra, India
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mahek-shikalgar-610108365">
@@ -104,7 +73,7 @@ Location: Maharashtra, India
 
 ---
 
-## ✨ Quote
+# ✨ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
